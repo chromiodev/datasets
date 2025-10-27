@@ -1,0 +1,140 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "coll": {
+      "name": "prc_hicp_manr"
+    }
+  },
+  "data": [
+    {
+      "id": "PRC_HICP_MANR:EN/AL/2016-12",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "EN",
+        "year": 2016,
+        "month": 12,
+        "geo_code": "AL",
+        "value": 2.5
+      },
+      "document": "In Albania, the year-on-year inflation rate (HICP), for December of 2016, was 2.5%."
+    },
+    {
+      "id": "PRC_HICP_MANR:EN/AL/2017-01",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "EN",
+        "year": 2017,
+        "month": 1,
+        "geo_code": "AL",
+        "value": 4.0
+      },
+      "document": "In Albania, the year-on-year inflation rate (HICP), for January of 2017, was 4.0%."
+    },
+    {
+      "id": "PRC_HICP_MANR:EN/AL/2017-02",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "EN",
+        "year": 2017,
+        "month": 2,
+        "geo_code": "AL",
+        "value": 3.7
+      },
+      "document": "In Albania, the year-on-year inflation rate (HICP), for February of 2017, was 3.7%."
+    },
+    {
+      "id": "PRC_HICP_MANR:EN/AL/2017-03",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "EN",
+        "year": 2017,
+        "month": 3,
+        "geo_code": "AL",
+        "value": 3.8
+      },
+      "document": "In Albania, the year-on-year inflation rate (HICP), for March of 2017, was 3.8%."
+    },
+    {
+      "id": "PRC_HICP_MANR:EN/AL/2017-04",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "EN",
+        "year": 2017,
+        "month": 4,
+        "geo_code": "AL",
+        "value": 3.6
+      },
+      "document": "In Albania, the year-on-year inflation rate (HICP), for April of 2017, was 3.6%."
+    },
+    {
+      "id": "PRC_HICP_MANR:EN/AL/2017-05",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "EN",
+        "year": 2017,
+        "month": 5,
+        "geo_code": "AL",
+        "value": 3.4
+      },
+      "document": "In Albania, the year-on-year inflation rate (HICP), for May of 2017, was 3.4%."
+    },
+    {
+      "id": "PRC_HICP_MANR:EN/AL/2017-06",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "EN",
+        "year": 2017,
+        "month": 6,
+        "geo_code": "AL",
+        "value": 3.7
+      },
+      "document": "In Albania, the year-on-year inflation rate (HICP), for June of 2017, was 3.7%."
+    },
+    {
+      "id": "PRC_HICP_MANR:EN/AL/2017-07",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "EN",
+        "year": 2017,
+        "month": 7,
+        "geo_code": "AL",
+        "value": 3.0
+      },
+      "document": "In Albania, the year-on-year inflation rate (HICP), for July of 2017, was 3.0%."
+    },
+    {
+      "id": "PRC_HICP_MANR:EN/AL/2017-08",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "EN",
+        "year": 2017,
+        "month": 8,
+        "geo_code": "AL",
+        "value": 2.5
+      },
+      "document": "In Albania, the year-on-year inflation rate (HICP), for August of 2017, was 2.5%."
+    },
+    {
+      "id": "PRC_HICP_MANR:EN/AL/2017-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "EN",
+        "year": 2017,
+        "month": 9,
+        "geo_code": "AL",
+        "value": 2.7
+      },
+      "document": "In Albania, the year-on-year inflation rate (HICP), for September of 2017, was 2.7%."
+    }
+  ]
+}
