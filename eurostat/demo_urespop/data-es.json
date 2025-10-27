@@ -1,0 +1,4294 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "coll": {
+      "name": "demo_urespop"
+    }
+  },
+  "data": [
+    {
+      "id": "DEMO_URESPOP:ES/AT/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "AT",
+        "value": 8511000
+      },
+      "document": "La población residente habitual en Austria a 1 de enero de 2014 era de 8511000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/AT/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "AT",
+        "value": 8581500
+      },
+      "document": "La población residente habitual en Austria a 1 de enero de 2015 era de 8581500."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/AT/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "AT",
+        "value": 8711500
+      },
+      "document": "La población residente habitual en Austria a 1 de enero de 2016 era de 8711500."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/AT/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "AT",
+        "value": 8752500
+      },
+      "document": "La población residente habitual en Austria a 1 de enero de 2017 era de 8752500."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/AT/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "AT",
+        "value": 8802000
+      },
+      "document": "La población residente habitual en Austria a 1 de enero de 2018 era de 8802000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/AT/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "AT",
+        "value": 8842000
+      },
+      "document": "La población residente habitual en Austria a 1 de enero de 2019 era de 8842000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/AT/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "AT",
+        "value": 8897000
+      },
+      "document": "La población residente habitual en Austria a 1 de enero de 2020 era de 8897000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/AT/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "AT",
+        "value": 8926000
+      },
+      "document": "La población residente habitual en Austria a 1 de enero de 2021 era de 8926000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/AT/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "AT",
+        "value": 8967500
+      },
+      "document": "La población residente habitual en Austria a 1 de enero de 2022 era de 8967500."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/AT/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "AT",
+        "value": 9087000
+      },
+      "document": "La población residente habitual en Austria a 1 de enero de 2023 era de 9087000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/AT/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "AT",
+        "value": 9132500
+      },
+      "document": "La población residente habitual en Austria a 1 de enero de 2024 era de 9132500."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/AT/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "AT",
+        "value": 9180000
+      },
+      "document": "La población residente habitual en Austria a 1 de enero de 2025 era de 9180000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BE/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "BE",
+        "value": 11203992
+      },
+      "document": "La población residente habitual en Bélgica a 1 de enero de 2014 era de 11203992."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BE/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "BE",
+        "value": 11258434
+      },
+      "document": "La población residente habitual en Bélgica a 1 de enero de 2015 era de 11258434."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BE/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "BE",
+        "value": 11289853
+      },
+      "document": "La población residente habitual en Bélgica a 1 de enero de 2016 era de 11289853."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BE/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "BE",
+        "value": 11365834
+      },
+      "document": "La población residente habitual en Bélgica a 1 de enero de 2017 era de 11365834."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BE/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "BE",
+        "value": 11413058
+      },
+      "document": "La población residente habitual en Bélgica a 1 de enero de 2018 era de 11413058."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BE/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "BE",
+        "value": 11467923
+      },
+      "document": "La población residente habitual en Bélgica a 1 de enero de 2019 era de 11467923."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BE/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "BE",
+        "value": 11549888
+      },
+      "document": "La población residente habitual en Bélgica a 1 de enero de 2020 era de 11549888."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BE/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "BE",
+        "value": 11566041
+      },
+      "document": "La población residente habitual en Bélgica a 1 de enero de 2021 era de 11566041."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BE/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "BE",
+        "value": 11631136
+      },
+      "document": "La población residente habitual en Bélgica a 1 de enero de 2022 era de 11631136."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BE/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "BE",
+        "value": 11754004
+      },
+      "document": "La población residente habitual en Bélgica a 1 de enero de 2023 era de 11754004."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BE/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "BE",
+        "value": 11832049
+      },
+      "document": "La población residente habitual en Bélgica a 1 de enero de 2024 era de 11832049."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BE/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "BE",
+        "value": 11900123
+      },
+      "document": "La población residente habitual en Bélgica a 1 de enero de 2025 era de 11900123."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BG/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "BG",
+        "value": 7245677
+      },
+      "document": "La población residente habitual en Bulgaria a 1 de enero de 2014 era de 7245677."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BG/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "BG",
+        "value": 7202198
+      },
+      "document": "La población residente habitual en Bulgaria a 1 de enero de 2015 era de 7202198."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BG/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "BG",
+        "value": 7153784
+      },
+      "document": "La población residente habitual en Bulgaria a 1 de enero de 2016 era de 7153784."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BG/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "BG",
+        "value": 7101859
+      },
+      "document": "La población residente habitual en Bulgaria a 1 de enero de 2017 era de 7101859."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BG/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "BG",
+        "value": 7050034
+      },
+      "document": "La población residente habitual en Bulgaria a 1 de enero de 2018 era de 7050034."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BG/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "BG",
+        "value": 7000039
+      },
+      "document": "La población residente habitual en Bulgaria a 1 de enero de 2019 era de 7000039."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BG/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "BG",
+        "value": 6951482
+      },
+      "document": "La población residente habitual en Bulgaria a 1 de enero de 2020 era de 6951482."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BG/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "BG",
+        "value": 6916548
+      },
+      "document": "La población residente habitual en Bulgaria a 1 de enero de 2021 era de 6916548."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BG/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "BG",
+        "value": 6838937
+      },
+      "document": "La población residente habitual en Bulgaria a 1 de enero de 2022 era de 6838937."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BG/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "BG",
+        "value": 6498567
+      },
+      "document": "La población residente habitual en Bulgaria a 1 de enero de 2023 era de 6498567."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BG/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "BG",
+        "value": 6445481
+      },
+      "document": "La población residente habitual en Bulgaria a 1 de enero de 2024 era de 6445481."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/BG/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "BG",
+        "value": 6437360
+      },
+      "document": "La población residente habitual en Bulgaria a 1 de enero de 2025 era de 6437360."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CY/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "CY",
+        "value": 858000
+      },
+      "document": "La población residente habitual en Chipre a 1 de enero de 2014 era de 858000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CY/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "CY",
+        "value": 847008
+      },
+      "document": "La población residente habitual en Chipre a 1 de enero de 2015 era de 847008."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CY/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "CY",
+        "value": 848319
+      },
+      "document": "La población residente habitual en Chipre a 1 de enero de 2016 era de 848319."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CY/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "CY",
+        "value": 854802
+      },
+      "document": "La población residente habitual en Chipre a 1 de enero de 2017 era de 854802."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CY/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "CY",
+        "value": 864236
+      },
+      "document": "La población residente habitual en Chipre a 1 de enero de 2018 era de 864236."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CY/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "CY",
+        "value": 875898
+      },
+      "document": "La población residente habitual en Chipre a 1 de enero de 2019 era de 875898."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CY/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "CY",
+        "value": 888005
+      },
+      "document": "La población residente habitual en Chipre a 1 de enero de 2020 era de 888005."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CY/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "CY",
+        "value": 896000
+      },
+      "document": "La población residente habitual en Chipre a 1 de enero de 2021 era de 896000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CY/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "CY",
+        "value": 904700
+      },
+      "document": "La población residente habitual en Chipre a 1 de enero de 2022 era de 904700."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CY/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "CY",
+        "value": 920701
+      },
+      "document": "La población residente habitual en Chipre a 1 de enero de 2023 era de 920701."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CY/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "CY",
+        "value": 933505
+      },
+      "document": "La población residente habitual en Chipre a 1 de enero de 2024 era de 933505."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CY/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "CY",
+        "value": 982966
+      },
+      "document": "La población residente habitual en Chipre a 1 de enero de 2025 era de 982966."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CZ/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "CZ",
+        "value": 10398697
+      },
+      "document": "La población residente habitual en Chequia a 1 de enero de 2014 era de 10398697."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CZ/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "CZ",
+        "value": 10419743
+      },
+      "document": "La población residente habitual en Chequia a 1 de enero de 2015 era de 10419743."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CZ/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "CZ",
+        "value": 10445783
+      },
+      "document": "La población residente habitual en Chequia a 1 de enero de 2016 era de 10445783."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CZ/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "CZ",
+        "value": 10467628
+      },
+      "document": "La población residente habitual en Chequia a 1 de enero de 2017 era de 10467628."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CZ/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "CZ",
+        "value": 10493154
+      },
+      "document": "La población residente habitual en Chequia a 1 de enero de 2018 era de 10493154."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CZ/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "CZ",
+        "value": 10528984
+      },
+      "document": "La población residente habitual en Chequia a 1 de enero de 2019 era de 10528984."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CZ/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "CZ",
+        "value": 10557001
+      },
+      "document": "La población residente habitual en Chequia a 1 de enero de 2020 era de 10557001."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CZ/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "CZ",
+        "value": 10574153
+      },
+      "document": "La población residente habitual en Chequia a 1 de enero de 2021 era de 10574153."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CZ/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "CZ",
+        "value": 10545457
+      },
+      "document": "La población residente habitual en Chequia a 1 de enero de 2022 era de 10545457."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CZ/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "CZ",
+        "value": 10833385
+      },
+      "document": "La población residente habitual en Chequia a 1 de enero de 2023 era de 10833385."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CZ/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "CZ",
+        "value": 10916836
+      },
+      "document": "La población residente habitual en Chequia a 1 de enero de 2024 era de 10916836."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/CZ/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "CZ",
+        "value": 10921096
+      },
+      "document": "La población residente habitual en Chequia a 1 de enero de 2025 era de 10921096."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DE/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "DE",
+        "value": 80704691
+      },
+      "document": "La población residente habitual en Alemania a 1 de enero de 2014 era de 80704691."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DE/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "DE",
+        "value": 81089331
+      },
+      "document": "La población residente habitual en Alemania a 1 de enero de 2015 era de 81089331."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DE/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "DE",
+        "value": 82064489
+      },
+      "document": "La población residente habitual en Alemania a 1 de enero de 2016 era de 82064489."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DE/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "DE",
+        "value": 82437641
+      },
+      "document": "La población residente habitual en Alemania a 1 de enero de 2017 era de 82437641."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DE/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "DE",
+        "value": 82719022
+      },
+      "document": "La población residente habitual en Alemania a 1 de enero de 2018 era de 82719022."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DE/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "DE",
+        "value": 82940663
+      },
+      "document": "La población residente habitual en Alemania a 1 de enero de 2019 era de 82940663."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DE/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "DE",
+        "value": 83100961
+      },
+      "document": "La población residente habitual en Alemania a 1 de enero de 2020 era de 83100961."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DE/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "DE",
+        "value": 83120520
+      },
+      "document": "La población residente habitual en Alemania a 1 de enero de 2021 era de 83120520."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DE/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "DE",
+        "value": 83203320
+      },
+      "document": "La población residente habitual en Alemania a 1 de enero de 2022 era de 83203320."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DE/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "DE",
+        "value": 84311244
+      },
+      "document": "La población residente habitual en Alemania a 1 de enero de 2023 era de 84311244."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DE/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "DE",
+        "value": 83399432
+      },
+      "document": "La población residente habitual en Alemania a 1 de enero de 2024 era de 83399432."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DE/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "DE",
+        "value": 83502300
+      },
+      "document": "La población residente habitual en Alemania a 1 de enero de 2025 era de 83502300."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DK/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "DK",
+        "value": 5621607
+      },
+      "document": "La población residente habitual en Dinamarca a 1 de enero de 2014 era de 5621607."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DK/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "DK",
+        "value": 5653357
+      },
+      "document": "La población residente habitual en Dinamarca a 1 de enero de 2015 era de 5653357."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DK/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "DK",
+        "value": 5700917
+      },
+      "document": "La población residente habitual en Dinamarca a 1 de enero de 2016 era de 5700917."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DK/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "DK",
+        "value": 5743947
+      },
+      "document": "La población residente habitual en Dinamarca a 1 de enero de 2017 era de 5743947."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DK/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "DK",
+        "value": 5774877
+      },
+      "document": "La población residente habitual en Dinamarca a 1 de enero de 2018 era de 5774877."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DK/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "DK",
+        "value": 5799763
+      },
+      "document": "La población residente habitual en Dinamarca a 1 de enero de 2019 era de 5799763."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DK/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "DK",
+        "value": 5816443
+      },
+      "document": "La población residente habitual en Dinamarca a 1 de enero de 2020 era de 5816443."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DK/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "DK",
+        "value": 5833883
+      },
+      "document": "La población residente habitual en Dinamarca a 1 de enero de 2021 era de 5833883."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DK/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "DK",
+        "value": 5864667
+      },
+      "document": "La población residente habitual en Dinamarca a 1 de enero de 2022 era de 5864667."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DK/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "DK",
+        "value": 5921952
+      },
+      "document": "La población residente habitual en Dinamarca a 1 de enero de 2023 era de 5921952."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DK/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "DK",
+        "value": 5954471
+      },
+      "document": "La población residente habitual en Dinamarca a 1 de enero de 2024 era de 5954471."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/DK/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "DK",
+        "value": 5985790
+      },
+      "document": "La población residente habitual en Dinamarca a 1 de enero de 2025 era de 5985790."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EA19/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "EA19",
+        "value": 338270039
+      },
+      "document": "La población residente habitual en Zona del euro - 19 países a 1 de enero de 2014 era de 338270039."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EA19/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "EA19",
+        "value": 339160633
+      },
+      "document": "La población residente habitual en Zona del euro - 19 países a 1 de enero de 2015 era de 339160633."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EA19/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "EA19",
+        "value": 340472701
+      },
+      "document": "La población residente habitual en Zona del euro - 19 países a 1 de enero de 2016 era de 340472701."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EA19/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "EA19",
+        "value": 341390052
+      },
+      "document": "La población residente habitual en Zona del euro - 19 países a 1 de enero de 2017 era de 341390052."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EA19/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "EA19",
+        "value": 342177328
+      },
+      "document": "La población residente habitual en Zona del euro - 19 países a 1 de enero de 2018 era de 342177328."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EA19/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "EA19",
+        "value": 342671916
+      },
+      "document": "La población residente habitual en Zona del euro - 19 países a 1 de enero de 2019 era de 342671916."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EA19/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "EA19",
+        "value": 343526388
+      },
+      "document": "La población residente habitual en Zona del euro - 19 países a 1 de enero de 2020 era de 343526388."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EA19/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "EA19",
+        "value": 343074378
+      },
+      "document": "La población residente habitual en Zona del euro - 19 países a 1 de enero de 2021 era de 343074378."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EA19/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "EA19",
+        "value": 343600422
+      },
+      "document": "La población residente habitual en Zona del euro - 19 países a 1 de enero de 2022 era de 343600422."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EA19/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "EA19",
+        "value": 346452616
+      },
+      "document": "La población residente habitual en Zona del euro - 19 países a 1 de enero de 2023 era de 346452616."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EA19/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "EA19",
+        "value": 347062375
+      },
+      "document": "La población residente habitual en Zona del euro - 19 países a 1 de enero de 2024 era de 347062375."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EA19/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "EA19",
+        "value": 348310251
+      },
+      "document": "La población residente habitual en Zona del euro - 19 países a 1 de enero de 2025 era de 348310251."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EA20/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "EA20",
+        "value": 350303510
+      },
+      "document": "La población residente habitual en Zona del euro - 20 países a 1 de enero de 2023 era de 350303510."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EA20/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "EA20",
+        "value": 350924342
+      },
+      "document": "La población residente habitual en Zona del euro - 20 países a 1 de enero de 2024 era de 350924342."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EA20/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "EA20",
+        "value": 352184601
+      },
+      "document": "La población residente habitual en Zona del euro - 20 países a 1 de enero de 2025 era de 352184601."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EE/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "EE",
+        "value": 1315819
+      },
+      "document": "La población residente habitual en Estonia a 1 de enero de 2014 era de 1315819."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EE/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "EE",
+        "value": 1313271
+      },
+      "document": "La población residente habitual en Estonia a 1 de enero de 2015 era de 1313271."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EE/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "EE",
+        "value": 1315944
+      },
+      "document": "La población residente habitual en Estonia a 1 de enero de 2016 era de 1315944."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EE/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "EE",
+        "value": 1315635
+      },
+      "document": "La población residente habitual en Estonia a 1 de enero de 2017 era de 1315635."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EE/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "EE",
+        "value": 1319133
+      },
+      "document": "La población residente habitual en Estonia a 1 de enero de 2018 era de 1319133."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EE/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "EE",
+        "value": 1324820
+      },
+      "document": "La población residente habitual en Estonia a 1 de enero de 2019 era de 1324820."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EE/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "EE",
+        "value": 1328976
+      },
+      "document": "La población residente habitual en Estonia a 1 de enero de 2020 era de 1328976."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EE/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "EE",
+        "value": 1330068
+      },
+      "document": "La población residente habitual en Estonia a 1 de enero de 2021 era de 1330068."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EE/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "EE",
+        "value": 1331796
+      },
+      "document": "La población residente habitual en Estonia a 1 de enero de 2022 era de 1331796."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EE/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "EE",
+        "value": 1365884
+      },
+      "document": "La población residente habitual en Estonia a 1 de enero de 2023 era de 1365884."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EE/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "EE",
+        "value": 1374687
+      },
+      "document": "La población residente habitual en Estonia a 1 de enero de 2024 era de 1374687."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EE/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "EE",
+        "value": 1369995
+      },
+      "document": "La población residente habitual en Estonia a 1 de enero de 2025 era de 1369995."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EL/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "EL",
+        "value": 10992783
+      },
+      "document": "La población residente habitual en Grecia a 1 de enero de 2014 era de 10992783."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EL/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "EL",
+        "value": 10846979
+      },
+      "document": "La población residente habitual en Grecia a 1 de enero de 2015 era de 10846979."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EL/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "EL",
+        "value": 10793526
+      },
+      "document": "La población residente habitual en Grecia a 1 de enero de 2016 era de 10793526."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EL/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "EL",
+        "value": 10757293
+      },
+      "document": "La población residente habitual en Grecia a 1 de enero de 2017 era de 10757293."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EL/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "EL",
+        "value": 10738928
+      },
+      "document": "La población residente habitual en Grecia a 1 de enero de 2018 era de 10738928."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EL/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "EL",
+        "value": 10722287
+      },
+      "document": "La población residente habitual en Grecia a 1 de enero de 2019 era de 10722287."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EL/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "EL",
+        "value": 10709739
+      },
+      "document": "La población residente habitual en Grecia a 1 de enero de 2020 era de 10709739."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EL/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "EL",
+        "value": 10682547
+      },
+      "document": "La población residente habitual en Grecia a 1 de enero de 2021 era de 10682547."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EL/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "EL",
+        "value": 10603810
+      },
+      "document": "La población residente habitual en Grecia a 1 de enero de 2022 era de 10603810."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EL/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "EL",
+        "value": 10415585
+      },
+      "document": "La población residente habitual en Grecia a 1 de enero de 2023 era de 10415585."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EL/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "EL",
+        "value": 10401302
+      },
+      "document": "La población residente habitual en Grecia a 1 de enero de 2024 era de 10401302."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EL/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "EL",
+        "value": 10409547
+      },
+      "document": "La población residente habitual en Grecia a 1 de enero de 2025 era de 10409547."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/ES/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "ES",
+        "value": 46507760
+      },
+      "document": "La población residente habitual en España a 1 de enero de 2014 era de 46507760."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/ES/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "ES",
+        "value": 46439864
+      },
+      "document": "La población residente habitual en España a 1 de enero de 2015 era de 46439864."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/ES/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "ES",
+        "value": 46438422
+      },
+      "document": "La población residente habitual en España a 1 de enero de 2016 era de 46438422."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/ES/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "ES",
+        "value": 46528966
+      },
+      "document": "La población residente habitual en España a 1 de enero de 2017 era de 46528966."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/ES/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "ES",
+        "value": 46659302
+      },
+      "document": "La población residente habitual en España a 1 de enero de 2018 era de 46659302."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/ES/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "ES",
+        "value": 46934632
+      },
+      "document": "La población residente habitual en España a 1 de enero de 2019 era de 46934632."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/ES/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "ES",
+        "value": 47329981
+      },
+      "document": "La población residente habitual en España a 1 de enero de 2020 era de 47329981."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/ES/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "ES",
+        "value": 47394223
+      },
+      "document": "La población residente habitual en España a 1 de enero de 2021 era de 47394223."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/ES/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "ES",
+        "value": 47432805
+      },
+      "document": "La población residente habitual en España a 1 de enero de 2022 era de 47432805."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/ES/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "ES",
+        "value": 48063694
+      },
+      "document": "La población residente habitual en España a 1 de enero de 2023 era de 48063694."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/ES/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "ES",
+        "value": 48630010
+      },
+      "document": "La población residente habitual en España a 1 de enero de 2024 era de 48630010."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/ES/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "ES",
+        "value": 49093546
+      },
+      "document": "La población residente habitual en España a 1 de enero de 2025 era de 49093546."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EU27_2020/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "EU27_2020",
+        "value": 443265700
+      },
+      "document": "La población residente habitual en Unión Europea - 27 países (desde 2020) a 1 de enero de 2014 era de 443265700."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EU27_2020/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "EU27_2020",
+        "value": 444173840
+      },
+      "document": "La población residente habitual en Unión Europea - 27 países (desde 2020) a 1 de enero de 2015 era de 444173840."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EU27_2020/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "EU27_2020",
+        "value": 445519516
+      },
+      "document": "La población residente habitual en Unión Europea - 27 países (desde 2020) a 1 de enero de 2016 era de 445519516."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EU27_2020/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "EU27_2020",
+        "value": 446346533
+      },
+      "document": "La población residente habitual en Unión Europea - 27 países (desde 2020) a 1 de enero de 2017 era de 446346533."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EU27_2020/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "EU27_2020",
+        "value": 447036565
+      },
+      "document": "La población residente habitual en Unión Europea - 27 países (desde 2020) a 1 de enero de 2018 era de 447036565."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EU27_2020/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "EU27_2020",
+        "value": 447470672
+      },
+      "document": "La población residente habitual en Unión Europea - 27 países (desde 2020) a 1 de enero de 2019 era de 447470672."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EU27_2020/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "EU27_2020",
+        "value": 448285127
+      },
+      "document": "La población residente habitual en Unión Europea - 27 países (desde 2020) a 1 de enero de 2020 era de 448285127."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EU27_2020/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "EU27_2020",
+        "value": 447562291
+      },
+      "document": "La población residente habitual en Unión Europea - 27 países (desde 2020) a 1 de enero de 2021 era de 447562291."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EU27_2020/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "EU27_2020",
+        "value": 447533143
+      },
+      "document": "La población residente habitual en Unión Europea - 27 países (desde 2020) a 1 de enero de 2022 era de 447533143."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EU27_2020/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "EU27_2020",
+        "value": 450473252
+      },
+      "document": "La población residente habitual en Unión Europea - 27 países (desde 2020) a 1 de enero de 2023 era de 450473252."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EU27_2020/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "EU27_2020",
+        "value": 451028881
+      },
+      "document": "La población residente habitual en Unión Europea - 27 países (desde 2020) a 1 de enero de 2024 era de 451028881."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/EU27_2020/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "EU27_2020",
+        "value": 452162974
+      },
+      "document": "La población residente habitual en Unión Europea - 27 países (desde 2020) a 1 de enero de 2025 era de 452162974."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FI/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "FI",
+        "value": 5451270
+      },
+      "document": "La población residente habitual en Finlandia a 1 de enero de 2014 era de 5451270."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FI/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "FI",
+        "value": 5471753
+      },
+      "document": "La población residente habitual en Finlandia a 1 de enero de 2015 era de 5471753."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FI/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "FI",
+        "value": 5465408
+      },
+      "document": "La población residente habitual en Finlandia a 1 de enero de 2016 era de 5465408."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FI/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "FI",
+        "value": 5499447
+      },
+      "document": "La población residente habitual en Finlandia a 1 de enero de 2017 era de 5499447."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FI/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "FI",
+        "value": 5501930
+      },
+      "document": "La población residente habitual en Finlandia a 1 de enero de 2018 era de 5501930."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FI/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "FI",
+        "value": 5512119
+      },
+      "document": "La población residente habitual en Finlandia a 1 de enero de 2019 era de 5512119."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FI/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "FI",
+        "value": 5521292
+      },
+      "document": "La población residente habitual en Finlandia a 1 de enero de 2020 era de 5521292."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FI/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "FI",
+        "value": 5527493
+      },
+      "document": "La población residente habitual en Finlandia a 1 de enero de 2021 era de 5527493."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FI/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "FI",
+        "value": 5541241
+      },
+      "document": "La población residente habitual en Finlandia a 1 de enero de 2022 era de 5541241."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FI/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "FI",
+        "value": 5593070
+      },
+      "document": "La población residente habitual en Finlandia a 1 de enero de 2023 era de 5593070."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FI/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "FI",
+        "value": 5619851
+      },
+      "document": "La población residente habitual en Finlandia a 1 de enero de 2024 era de 5619851."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FI/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "FI",
+        "value": 5626971
+      },
+      "document": "La población residente habitual en Finlandia a 1 de enero de 2025 era de 5626971."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FR/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "FR",
+        "value": 66076909
+      },
+      "document": "La población residente habitual en Francia a 1 de enero de 2014 era de 66076909."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FR/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "FR",
+        "value": 66352469
+      },
+      "document": "La población residente habitual en Francia a 1 de enero de 2015 era de 66352469."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FR/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "FR",
+        "value": 66661621
+      },
+      "document": "La población residente habitual en Francia a 1 de enero de 2016 era de 66661621."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FR/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "FR",
+        "value": 67024633
+      },
+      "document": "La población residente habitual en Francia a 1 de enero de 2017 era de 67024633."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FR/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "FR",
+        "value": 67221943
+      },
+      "document": "La población residente habitual en Francia a 1 de enero de 2018 era de 67221943."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FR/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "FR",
+        "value": 67028048
+      },
+      "document": "La población residente habitual en Francia a 1 de enero de 2019 era de 67028048."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FR/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "FR",
+        "value": 67098824
+      },
+      "document": "La población residente habitual en Francia a 1 de enero de 2020 era de 67098824."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FR/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "FR",
+        "value": 67439614
+      },
+      "document": "La población residente habitual en Francia a 1 de enero de 2021 era de 67439614."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FR/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "FR",
+        "value": 67842582
+      },
+      "document": "La población residente habitual en Francia a 1 de enero de 2022 era de 67842582."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FR/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "FR",
+        "value": 68070697
+      },
+      "document": "La población residente habitual en Francia a 1 de enero de 2023 era de 68070697."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FR/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "FR",
+        "value": 68401997
+      },
+      "document": "La población residente habitual en Francia a 1 de enero de 2024 era de 68401997."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/FR/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "FR",
+        "value": 68635943
+      },
+      "document": "La población residente habitual en Francia a 1 de enero de 2025 era de 68635943."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HR/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "HR",
+        "value": 4246809
+      },
+      "document": "La población residente habitual en Croacia a 1 de enero de 2014 era de 4246809."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HR/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "HR",
+        "value": 4225316
+      },
+      "document": "La población residente habitual en Croacia a 1 de enero de 2015 era de 4225316."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HR/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "HR",
+        "value": 4190669
+      },
+      "document": "La población residente habitual en Croacia a 1 de enero de 2016 era de 4190669."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HR/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "HR",
+        "value": 4154213
+      },
+      "document": "La población residente habitual en Croacia a 1 de enero de 2017 era de 4154213."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HR/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "HR",
+        "value": 4105493
+      },
+      "document": "La población residente habitual en Croacia a 1 de enero de 2018 era de 4105493."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HR/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "HR",
+        "value": 4076246
+      },
+      "document": "La población residente habitual en Croacia a 1 de enero de 2019 era de 4076246."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HR/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "HR",
+        "value": 4058165
+      },
+      "document": "La población residente habitual en Croacia a 1 de enero de 2020 era de 4058165."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HR/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "HR",
+        "value": 4036355
+      },
+      "document": "La población residente habitual en Croacia a 1 de enero de 2021 era de 4036355."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HR/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "HR",
+        "value": 3862305
+      },
+      "document": "La población residente habitual en Croacia a 1 de enero de 2022 era de 3862305."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HR/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "HR",
+        "value": 3850894
+      },
+      "document": "La población residente habitual en Croacia a 1 de enero de 2023 era de 3850894."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HR/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "HR",
+        "value": 3861967
+      },
+      "document": "La población residente habitual en Croacia a 1 de enero de 2024 era de 3861967."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HR/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "HR",
+        "value": 3874350
+      },
+      "document": "La población residente habitual en Croacia a 1 de enero de 2025 era de 3874350."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HU/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "HU",
+        "value": 9877365
+      },
+      "document": "La población residente habitual en Hungría a 1 de enero de 2014 era de 9877365."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HU/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "HU",
+        "value": 9855571
+      },
+      "document": "La población residente habitual en Hungría a 1 de enero de 2015 era de 9855571."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HU/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "HU",
+        "value": 9830485
+      },
+      "document": "La población residente habitual en Hungría a 1 de enero de 2016 era de 9830485."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HU/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "HU",
+        "value": 9797561
+      },
+      "document": "La población residente habitual en Hungría a 1 de enero de 2017 era de 9797561."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HU/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "HU",
+        "value": 9778371
+      },
+      "document": "La población residente habitual en Hungría a 1 de enero de 2018 era de 9778371."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HU/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "HU",
+        "value": 9772756
+      },
+      "document": "La población residente habitual en Hungría a 1 de enero de 2019 era de 9772756."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HU/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "HU",
+        "value": 9769526
+      },
+      "document": "La población residente habitual en Hungría a 1 de enero de 2020 era de 9769526."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HU/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "HU",
+        "value": 9730772
+      },
+      "document": "La población residente habitual en Hungría a 1 de enero de 2021 era de 9730772."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HU/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "HU",
+        "value": 9689010
+      },
+      "document": "La población residente habitual en Hungría a 1 de enero de 2022 era de 9689010."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HU/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "HU",
+        "value": 9599744
+      },
+      "document": "La población residente habitual en Hungría a 1 de enero de 2023 era de 9599744."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HU/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "HU",
+        "value": 9584627
+      },
+      "document": "La población residente habitual en Hungría a 1 de enero de 2024 era de 9584627."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/HU/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "HU",
+        "value": 9539502
+      },
+      "document": "La población residente habitual en Hungría a 1 de enero de 2025 era de 9539502."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IE/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "IE",
+        "value": 4604029
+      },
+      "document": "La población residente habitual en Irlanda a 1 de enero de 2014 era de 4604029."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IE/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "IE",
+        "value": 4625885
+      },
+      "document": "La población residente habitual en Irlanda a 1 de enero de 2015 era de 4625885."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IE/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "IE",
+        "value": 4664156
+      },
+      "document": "La población residente habitual en Irlanda a 1 de enero de 2016 era de 4664156."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IE/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "IE",
+        "value": 4774833
+      },
+      "document": "La población residente habitual en Irlanda a 1 de enero de 2017 era de 4774833."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IE/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "IE",
+        "value": 4830392
+      },
+      "document": "La población residente habitual en Irlanda a 1 de enero de 2018 era de 4830392."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IE/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "IE",
+        "value": 4904240
+      },
+      "document": "La población residente habitual en Irlanda a 1 de enero de 2019 era de 4904240."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IE/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "IE",
+        "value": 4964440
+      },
+      "document": "La población residente habitual en Irlanda a 1 de enero de 2020 era de 4964440."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IE/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "IE",
+        "value": 5006324
+      },
+      "document": "La población residente habitual en Irlanda a 1 de enero de 2021 era de 5006324."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IE/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "IE",
+        "value": 5060004
+      },
+      "document": "La población residente habitual en Irlanda a 1 de enero de 2022 era de 5060004."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IE/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "IE",
+        "value": 5194336
+      },
+      "document": "La población residente habitual en Irlanda a 1 de enero de 2023 era de 5194336."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IE/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "IE",
+        "value": 5351681
+      },
+      "document": "La población residente habitual en Irlanda a 1 de enero de 2024 era de 5351681."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IE/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "IE",
+        "value": 5440278
+      },
+      "document": "La población residente habitual en Irlanda a 1 de enero de 2025 era de 5440278."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IT/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "IT",
+        "value": 61152798
+      },
+      "document": "La población residente habitual en Italia a 1 de enero de 2014 era de 61152798."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IT/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "IT",
+        "value": 61438480
+      },
+      "document": "La población residente habitual en Italia a 1 de enero de 2015 era de 61438480."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IT/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "IT",
+        "value": 61302519
+      },
+      "document": "La población residente habitual en Italia a 1 de enero de 2016 era de 61302519."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IT/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "IT",
+        "value": 61219113
+      },
+      "document": "La población residente habitual en Italia a 1 de enero de 2017 era de 61219113."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IT/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "IT",
+        "value": 61166142
+      },
+      "document": "La población residente habitual en Italia a 1 de enero de 2018 era de 61166142."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IT/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "IT",
+        "value": 61068437
+      },
+      "document": "La población residente habitual en Italia a 1 de enero de 2019 era de 61068437."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IT/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "IT",
+        "value": 60897891
+      },
+      "document": "La población residente habitual en Italia a 1 de enero de 2020 era de 60897891."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IT/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "IT",
+        "value": 59862348
+      },
+      "document": "La población residente habitual en Italia a 1 de enero de 2021 era de 59862348."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IT/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "IT",
+        "value": 59607184
+      },
+      "document": "La población residente habitual en Italia a 1 de enero de 2022 era de 59607184."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IT/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "IT",
+        "value": 59691110
+      },
+      "document": "La población residente habitual en Italia a 1 de enero de 2023 era de 59691110."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IT/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "IT",
+        "value": 59685948
+      },
+      "document": "La población residente habitual en Italia a 1 de enero de 2024 era de 59685948."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/IT/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "IT",
+        "value": 59635202
+      },
+      "document": "La población residente habitual en Italia a 1 de enero de 2025 era de 59635202."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LT/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "LT",
+        "value": 2943472
+      },
+      "document": "La población residente habitual en Lituania a 1 de enero de 2014 era de 2943472."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LT/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "LT",
+        "value": 2921262
+      },
+      "document": "La población residente habitual en Lituania a 1 de enero de 2015 era de 2921262."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LT/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "LT",
+        "value": 2888558
+      },
+      "document": "La población residente habitual en Lituania a 1 de enero de 2016 era de 2888558."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LT/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "LT",
+        "value": 2847904
+      },
+      "document": "La población residente habitual en Lituania a 1 de enero de 2017 era de 2847904."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LT/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "LT",
+        "value": 2808901
+      },
+      "document": "La población residente habitual en Lituania a 1 de enero de 2018 era de 2808901."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LT/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "LT",
+        "value": 2794184
+      },
+      "document": "La población residente habitual en Lituania a 1 de enero de 2019 era de 2794184."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LT/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "LT",
+        "value": 2794090
+      },
+      "document": "La población residente habitual en Lituania a 1 de enero de 2020 era de 2794090."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LT/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "LT",
+        "value": 2795680
+      },
+      "document": "La población residente habitual en Lituania a 1 de enero de 2021 era de 2795680."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LT/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "LT",
+        "value": 2805998
+      },
+      "document": "La población residente habitual en Lituania a 1 de enero de 2022 era de 2805998."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LT/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "LT",
+        "value": 2857279
+      },
+      "document": "La población residente habitual en Lituania a 1 de enero de 2023 era de 2857279."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LT/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "LT",
+        "value": 2885891
+      },
+      "document": "La población residente habitual en Lituania a 1 de enero de 2024 era de 2885891."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LT/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "LT",
+        "value": 2890664
+      },
+      "document": "La población residente habitual en Lituania a 1 de enero de 2025 era de 2890664."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LU/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "LU",
+        "value": 549680
+      },
+      "document": "La población residente habitual en Luxemburgo a 1 de enero de 2014 era de 549680."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LU/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "LU",
+        "value": 562958
+      },
+      "document": "La población residente habitual en Luxemburgo a 1 de enero de 2015 era de 562958."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LU/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "LU",
+        "value": 576249
+      },
+      "document": "La población residente habitual en Luxemburgo a 1 de enero de 2016 era de 576249."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LU/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "LU",
+        "value": 589370
+      },
+      "document": "La población residente habitual en Luxemburgo a 1 de enero de 2017 era de 589370."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LU/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "LU",
+        "value": 600124
+      },
+      "document": "La población residente habitual en Luxemburgo a 1 de enero de 2018 era de 600124."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LU/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "LU",
+        "value": 612179
+      },
+      "document": "La población residente habitual en Luxemburgo a 1 de enero de 2019 era de 612179."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LU/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "LU",
+        "value": 623962
+      },
+      "document": "La población residente habitual en Luxemburgo a 1 de enero de 2020 era de 623962."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LU/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "LU",
+        "value": 633347
+      },
+      "document": "La población residente habitual en Luxemburgo a 1 de enero de 2021 era de 633347."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LU/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "LU",
+        "value": 643648
+      },
+      "document": "La población residente habitual en Luxemburgo a 1 de enero de 2022 era de 643648."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LU/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "LU",
+        "value": 658278
+      },
+      "document": "La población residente habitual en Luxemburgo a 1 de enero de 2023 era de 658278."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LU/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "LU",
+        "value": 670093
+      },
+      "document": "La población residente habitual en Luxemburgo a 1 de enero de 2024 era de 670093."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LU/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "LU",
+        "value": 680084
+      },
+      "document": "La población residente habitual en Luxemburgo a 1 de enero de 2025 era de 680084."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LV/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "LV",
+        "value": 2001468
+      },
+      "document": "La población residente habitual en Letonia a 1 de enero de 2014 era de 2001468."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LV/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "LV",
+        "value": 1986096
+      },
+      "document": "La población residente habitual en Letonia a 1 de enero de 2015 era de 1986096."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LV/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "LV",
+        "value": 1968957
+      },
+      "document": "La población residente habitual en Letonia a 1 de enero de 2016 era de 1968957."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LV/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "LV",
+        "value": 1950116
+      },
+      "document": "La población residente habitual en Letonia a 1 de enero de 2017 era de 1950116."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LV/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "LV",
+        "value": 1934379
+      },
+      "document": "La población residente habitual en Letonia a 1 de enero de 2018 era de 1934379."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LV/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "LV",
+        "value": 1919968
+      },
+      "document": "La población residente habitual en Letonia a 1 de enero de 2019 era de 1919968."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LV/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "LV",
+        "value": 1907675
+      },
+      "document": "La población residente habitual en Letonia a 1 de enero de 2020 era de 1907675."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LV/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "LV",
+        "value": 1893223
+      },
+      "document": "La población residente habitual en Letonia a 1 de enero de 2021 era de 1893223."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LV/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "LV",
+        "value": 1875757
+      },
+      "document": "La población residente habitual en Letonia a 1 de enero de 2022 era de 1875757."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LV/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "LV",
+        "value": 1883008
+      },
+      "document": "La población residente habitual en Letonia a 1 de enero de 2023 era de 1883008."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LV/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "LV",
+        "value": 1871882
+      },
+      "document": "La población residente habitual en Letonia a 1 de enero de 2024 era de 1871882."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/LV/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "LV",
+        "value": 1860565
+      },
+      "document": "La población residente habitual en Letonia a 1 de enero de 2025 era de 1860565."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/MT/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "MT",
+        "value": 425384
+      },
+      "document": "La población residente habitual en Malta a 1 de enero de 2014 era de 425384."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/MT/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "MT",
+        "value": 429344
+      },
+      "document": "La población residente habitual en Malta a 1 de enero de 2015 era de 429344."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/MT/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "MT",
+        "value": 434403
+      },
+      "document": "La población residente habitual en Malta a 1 de enero de 2016 era de 434403."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/MT/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "MT",
+        "value": 440433
+      },
+      "document": "La población residente habitual en Malta a 1 de enero de 2017 era de 440433."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/MT/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "MT",
+        "value": 475701
+      },
+      "document": "La población residente habitual en Malta a 1 de enero de 2018 era de 475701."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/MT/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "MT",
+        "value": 493559
+      },
+      "document": "La población residente habitual en Malta a 1 de enero de 2019 era de 493559."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/MT/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "MT",
+        "value": 514564
+      },
+      "document": "La población residente habitual en Malta a 1 de enero de 2020 era de 514564."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/MT/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "MT",
+        "value": 516100
+      },
+      "document": "La población residente habitual en Malta a 1 de enero de 2021 era de 516100."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/MT/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "MT",
+        "value": 520971
+      },
+      "document": "La población residente habitual en Malta a 1 de enero de 2022 era de 520971."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/MT/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "MT",
+        "value": 542051
+      },
+      "document": "La población residente habitual en Malta a 1 de enero de 2023 era de 542051."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/MT/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "MT",
+        "value": 563443
+      },
+      "document": "La población residente habitual en Malta a 1 de enero de 2024 era de 563443."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/MT/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "MT",
+        "value": 574250
+      },
+      "document": "La población residente habitual en Malta a 1 de enero de 2025 era de 574250."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/NL/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "NL",
+        "value": 17082000
+      },
+      "document": "La población residente habitual en Países Bajos a 1 de enero de 2014 era de 17082000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/NL/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "NL",
+        "value": 17155169
+      },
+      "document": "La población residente habitual en Países Bajos a 1 de enero de 2015 era de 17155169."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/NL/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "NL",
+        "value": 17235349
+      },
+      "document": "La población residente habitual en Países Bajos a 1 de enero de 2016 era de 17235349."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/NL/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "NL",
+        "value": 17220721
+      },
+      "document": "La población residente habitual en Países Bajos a 1 de enero de 2017 era de 17220721."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/NL/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "NL",
+        "value": 17321110
+      },
+      "document": "La población residente habitual en Países Bajos a 1 de enero de 2018 era de 17321110."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/NL/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "NL",
+        "value": 17423013
+      },
+      "document": "La población residente habitual en Países Bajos a 1 de enero de 2019 era de 17423013."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/NL/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "NL",
+        "value": 17549457
+      },
+      "document": "La población residente habitual en Países Bajos a 1 de enero de 2020 era de 17549457."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/NL/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "NL",
+        "value": 17617840
+      },
+      "document": "La población residente habitual en Países Bajos a 1 de enero de 2021 era de 17617840."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/NL/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "NL",
+        "value": 17734036
+      },
+      "document": "La población residente habitual en Países Bajos a 1 de enero de 2022 era de 17734036."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/NL/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "NL",
+        "value": 17956453
+      },
+      "document": "La población residente habitual en Países Bajos a 1 de enero de 2023 era de 17956453."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/NL/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "NL",
+        "value": 18089177
+      },
+      "document": "La población residente habitual en Países Bajos a 1 de enero de 2024 era de 18089177."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/NL/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "NL",
+        "value": 18191086
+      },
+      "document": "La población residente habitual en Países Bajos a 1 de enero de 2025 era de 18191086."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PL/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "PL",
+        "value": 38018000
+      },
+      "document": "La población residente habitual en Polonia a 1 de enero de 2014 era de 38018000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PL/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "PL",
+        "value": 38005614
+      },
+      "document": "La población residente habitual en Polonia a 1 de enero de 2015 era de 38005614."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PL/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "PL",
+        "value": 37967209
+      },
+      "document": "La población residente habitual en Polonia a 1 de enero de 2016 era de 37967209."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PL/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "PL",
+        "value": 37972964
+      },
+      "document": "La población residente habitual en Polonia a 1 de enero de 2017 era de 37972964."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PL/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "PL",
+        "value": 37976687
+      },
+      "document": "La población residente habitual en Polonia a 1 de enero de 2018 era de 37976687."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PL/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "PL",
+        "value": 37972812
+      },
+      "document": "La población residente habitual en Polonia a 1 de enero de 2019 era de 37972812."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PL/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "PL",
+        "value": 37958138
+      },
+      "document": "La población residente habitual en Polonia a 1 de enero de 2020 era de 37958138."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PL/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "PL",
+        "value": 37840001
+      },
+      "document": "La población residente habitual en Polonia a 1 de enero de 2021 era de 37840001."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PL/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "PL",
+        "value": 37654247
+      },
+      "document": "La población residente habitual en Polonia a 1 de enero de 2022 era de 37654247."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PL/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "PL",
+        "value": 37723532
+      },
+      "document": "La población residente habitual en Polonia a 1 de enero de 2023 era de 37723532."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PL/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "PL",
+        "value": 37565715
+      },
+      "document": "La población residente habitual en Polonia a 1 de enero de 2024 era de 37565715."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PL/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "PL",
+        "value": 37475594
+      },
+      "document": "La población residente habitual en Polonia a 1 de enero de 2025 era de 37475594."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PT/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "PT",
+        "value": 10427301
+      },
+      "document": "La población residente habitual en Portugal a 1 de enero de 2014 era de 10427301."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PT/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "PT",
+        "value": 10374822
+      },
+      "document": "La población residente habitual en Portugal a 1 de enero de 2015 era de 10374822."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PT/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "PT",
+        "value": 10341330
+      },
+      "document": "La población residente habitual en Portugal a 1 de enero de 2016 era de 10341330."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PT/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "PT",
+        "value": 10309573
+      },
+      "document": "La población residente habitual en Portugal a 1 de enero de 2017 era de 10309573."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PT/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "PT",
+        "value": 10291027
+      },
+      "document": "La población residente habitual en Portugal a 1 de enero de 2018 era de 10291027."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PT/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "PT",
+        "value": 10276617
+      },
+      "document": "La población residente habitual en Portugal a 1 de enero de 2019 era de 10276617."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PT/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "PT",
+        "value": 10295909
+      },
+      "document": "La población residente habitual en Portugal a 1 de enero de 2020 era de 10295909."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PT/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "PT",
+        "value": 10298252
+      },
+      "document": "La población residente habitual en Portugal a 1 de enero de 2021 era de 10298252."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PT/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "PT",
+        "value": 10352042
+      },
+      "document": "La población residente habitual en Portugal a 1 de enero de 2022 era de 10352042."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PT/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "PT",
+        "value": 10516621
+      },
+      "document": "La población residente habitual en Portugal a 1 de enero de 2023 era de 10516621."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PT/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "PT",
+        "value": 10639726
+      },
+      "document": "La población residente habitual en Portugal a 1 de enero de 2024 era de 10639726."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/PT/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "PT",
+        "value": 10749635
+      },
+      "document": "La población residente habitual en Portugal a 1 de enero de 2025 era de 10749635."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/RO/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "RO",
+        "value": 19942642
+      },
+      "document": "La población residente habitual en Rumanía a 1 de enero de 2014 era de 19942642."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/RO/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "RO",
+        "value": 19861408
+      },
+      "document": "La población residente habitual en Rumanía a 1 de enero de 2015 era de 19861408."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/RO/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "RO",
+        "value": 19759968
+      },
+      "document": "La población residente habitual en Rumanía a 1 de enero de 2016 era de 19759968."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/RO/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "RO",
+        "value": 19638309
+      },
+      "document": "La población residente habitual en Rumanía a 1 de enero de 2017 era de 19638309."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/RO/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "RO",
+        "value": 19523621
+      },
+      "document": "La población residente habitual en Rumanía a 1 de enero de 2018 era de 19523621."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/RO/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "RO",
+        "value": 19405156
+      },
+      "document": "La población residente habitual en Rumanía a 1 de enero de 2019 era de 19405156."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/RO/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "RO",
+        "value": 19317984
+      },
+      "document": "La población residente habitual en Rumanía a 1 de enero de 2020 era de 19317984."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/RO/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "RO",
+        "value": 19186201
+      },
+      "document": "La población residente habitual en Rumanía a 1 de enero de 2021 era de 19186201."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/RO/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "RO",
+        "value": 19038098
+      },
+      "document": "La población residente habitual en Rumanía a 1 de enero de 2022 era de 19038098."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/RO/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "RO",
+        "value": 19051562
+      },
+      "document": "La población residente habitual en Rumanía a 1 de enero de 2023 era de 19051562."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/RO/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "RO",
+        "value": 19064409
+      },
+      "document": "La población residente habitual en Rumanía a 1 de enero de 2024 era de 19064409."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/RO/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "RO",
+        "value": 19036031
+      },
+      "document": "La población residente habitual en Rumanía a 1 de enero de 2025 era de 19036031."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SE/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "SE",
+        "value": 9644864
+      },
+      "document": "La población residente habitual en Suecia a 1 de enero de 2014 era de 9644864."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SE/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "SE",
+        "value": 9790000
+      },
+      "document": "La población residente habitual en Suecia a 1 de enero de 2015 era de 9790000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SE/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "SE",
+        "value": 9998000
+      },
+      "document": "La población residente habitual en Suecia a 1 de enero de 2016 era de 9998000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SE/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "SE",
+        "value": 10080000
+      },
+      "document": "La población residente habitual en Suecia a 1 de enero de 2017 era de 10080000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SE/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "SE",
+        "value": 10157000
+      },
+      "document": "La población residente habitual en Suecia a 1 de enero de 2018 era de 10157000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SE/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "SE",
+        "value": 10243000
+      },
+      "document": "La población residente habitual en Suecia a 1 de enero de 2019 era de 10243000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SE/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "SE",
+        "value": 10330000
+      },
+      "document": "La población residente habitual en Suecia a 1 de enero de 2020 era de 10330000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SE/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "SE",
+        "value": 10370000
+      },
+      "document": "La población residente habitual en Suecia a 1 de enero de 2021 era de 10370000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SE/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "SE",
+        "value": 10440000
+      },
+      "document": "La población residente habitual en Suecia a 1 de enero de 2022 era de 10440000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SE/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "SE",
+        "value": 10541000
+      },
+      "document": "La población residente habitual en Suecia a 1 de enero de 2023 era de 10541000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SE/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "SE",
+        "value": 10573000
+      },
+      "document": "La población residente habitual en Suecia a 1 de enero de 2024 era de 10573000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SE/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "SE",
+        "value": 10583000
+      },
+      "document": "La población residente habitual en Suecia a 1 de enero de 2025 era de 10583000."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SI/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "SI",
+        "value": 2061085
+      },
+      "document": "La población residente habitual en Eslovenia a 1 de enero de 2014 era de 2061085."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SI/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "SI",
+        "value": 2062874
+      },
+      "document": "La población residente habitual en Eslovenia a 1 de enero de 2015 era de 2062874."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SI/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "SI",
+        "value": 2064188
+      },
+      "document": "La población residente habitual en Eslovenia a 1 de enero de 2016 era de 2064188."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SI/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "SI",
+        "value": 2065895
+      },
+      "document": "La población residente habitual en Eslovenia a 1 de enero de 2017 era de 2065895."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SI/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "SI",
+        "value": 2066880
+      },
+      "document": "La población residente habitual en Eslovenia a 1 de enero de 2018 era de 2066880."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SI/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "SI",
+        "value": 2080908
+      },
+      "document": "La población residente habitual en Eslovenia a 1 de enero de 2019 era de 2080908."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SI/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "SI",
+        "value": 2095861
+      },
+      "document": "La población residente habitual en Eslovenia a 1 de enero de 2020 era de 2095861."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SI/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "SI",
+        "value": 2108977
+      },
+      "document": "La población residente habitual en Eslovenia a 1 de enero de 2021 era de 2108977."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SI/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "SI",
+        "value": 2107180
+      },
+      "document": "La población residente habitual en Eslovenia a 1 de enero de 2022 era de 2107180."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SI/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "SI",
+        "value": 2116972
+      },
+      "document": "La población residente habitual en Eslovenia a 1 de enero de 2023 era de 2116972."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SI/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "SI",
+        "value": 2123949
+      },
+      "document": "La población residente habitual en Eslovenia a 1 de enero de 2024 era de 2123949."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SI/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "SI",
+        "value": 2130850
+      },
+      "document": "La población residente habitual en Eslovenia a 1 de enero de 2025 era de 2130850."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SK/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "SK",
+        "value": 5400598
+      },
+      "document": "La población residente habitual en Eslovaquia a 1 de enero de 2014 era de 5400598."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SK/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "SK",
+        "value": 5403134
+      },
+      "document": "La población residente habitual en Eslovaquia a 1 de enero de 2015 era de 5403134."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SK/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "SK",
+        "value": 5407910
+      },
+      "document": "La población residente habitual en Eslovaquia a 1 de enero de 2016 era de 5407910."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SK/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "SK",
+        "value": 5435343
+      },
+      "document": "La población residente habitual en Eslovaquia a 1 de enero de 2017 era de 5435343."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SK/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "SK",
+        "value": 5443120
+      },
+      "document": "La población residente habitual en Eslovaquia a 1 de enero de 2018 era de 5443120."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SK/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "SK",
+        "value": 5450421
+      },
+      "document": "La población residente habitual en Eslovaquia a 1 de enero de 2019 era de 5450421."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SK/2020",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2020,
+        "geo_code": "SK",
+        "value": 5457873
+      },
+      "document": "La población residente habitual en Eslovaquia a 1 de enero de 2020 era de 5457873."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SK/2021",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2021,
+        "geo_code": "SK",
+        "value": 5459781
+      },
+      "document": "La población residente habitual en Eslovaquia a 1 de enero de 2021 era de 5459781."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SK/2022",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2022,
+        "geo_code": "SK",
+        "value": 5434712
+      },
+      "document": "La población residente habitual en Eslovaquia a 1 de enero de 2022 era de 5434712."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SK/2023",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2023,
+        "geo_code": "SK",
+        "value": 5454629
+      },
+      "document": "La población residente habitual en Eslovaquia a 1 de enero de 2023 era de 5454629."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SK/2024",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2024,
+        "geo_code": "SK",
+        "value": 5455252
+      },
+      "document": "La población residente habitual en Eslovaquia a 1 de enero de 2024 era de 5455252."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/SK/2025",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2025,
+        "geo_code": "SK",
+        "value": 5456246
+      },
+      "document": "La población residente habitual en Eslovaquia a 1 de enero de 2025 era de 5456246."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/UK/2014",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2014,
+        "geo_code": "UK",
+        "value": 64105654
+      },
+      "document": "La población residente habitual en Reino Unido a 1 de enero de 2014 era de 64105654."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/UK/2015",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2015,
+        "geo_code": "UK",
+        "value": 64767115
+      },
+      "document": "La población residente habitual en Reino Unido a 1 de enero de 2015 era de 64767115."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/UK/2016",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2016,
+        "geo_code": "UK",
+        "value": 65341183
+      },
+      "document": "La población residente habitual en Reino Unido a 1 de enero de 2016 era de 65341183."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/UK/2017",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2017,
+        "geo_code": "UK",
+        "value": 65808573
+      },
+      "document": "La población residente habitual en Reino Unido a 1 de enero de 2017 era de 65808573."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/UK/2018",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2018,
+        "geo_code": "UK",
+        "value": 66238007
+      },
+      "document": "La población residente habitual en Reino Unido a 1 de enero de 2018 era de 66238007."
+    },
+    {
+      "id": "DEMO_URESPOP:ES/UK/2019",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "DEMO_URESPOP",
+        "lang": "ES",
+        "year": 2019,
+        "geo_code": "UK",
+        "value": 66647112
+      },
+      "document": "La población residente habitual en Reino Unido a 1 de enero de 2019 era de 66647112."
+    }
+  ]
+}
