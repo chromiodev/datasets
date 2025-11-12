@@ -4,7 +4,6 @@
     "coll": {
       "name": "eurostat",
       "configuration": {
-        "embedding_function": "sentence_transformer",
         "spann": {
           "search_nprobe": 64,
           "write_nprobe": 32,
@@ -15,6 +14,16 @@
           "reassign_neighbor_count": 64,
           "split_threshold": 50,
           "merge_threshold": 25
+        },
+        "embedding_function": {
+          "type": "known",
+          "name": "sentence_transformer",
+          "config": {
+            "device": "cpu",
+            "kwargs": {},
+            "model_name": "paraphrase-multilingual-mpnet-base-v2",
+            "normalize_embeddings": false
+          }
         }
       }
     }
