@@ -2,7 +2,21 @@
   "version": "1.0",
   "metadata": {
     "coll": {
-      "name": "prc_hicp_manr"
+      "name": "eurostat",
+      "configuration": {
+        "embedding_function": "sentence_transformer",
+        "spann": {
+          "search_nprobe": 64,
+          "write_nprobe": 32,
+          "space": "cosine",
+          "ef_construction": 200,
+          "ef_search": 200,
+          "max_neighbors": 64,
+          "reassign_neighbor_count": 64,
+          "split_threshold": 50,
+          "merge_threshold": 25
+        }
+      }
     }
   },
   "data": [
@@ -1370,6 +1384,19 @@
         "value": 2.3
       },
       "document": "En Albania, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 2.3%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/AL/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "AL",
+        "value": 2.2
+      },
+      "document": "En Albania, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 2.2%."
     },
     {
       "id": "PRC_HICP_MANR:ES/AT/1997-01",
@@ -5844,6 +5871,32 @@
       "document": "En Austria, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 4.1%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/AT/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "AT",
+        "value": 3.9
+      },
+      "document": "En Austria, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 3.9%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/AT/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "AT",
+        "value": 4.0
+      },
+      "document": "En Austria, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 4.0%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/BE/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -10316,6 +10369,32 @@
       "document": "En Bélgica, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 2.6%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/BE/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "BE",
+        "value": 2.7
+      },
+      "document": "En Bélgica, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 2.7%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/BE/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "BE",
+        "value": 2.5
+      },
+      "document": "En Bélgica, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 2.5%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/BG/1997-12",
       "metadata": {
         "src": "Eurostat",
@@ -14645,6 +14724,19 @@
       "document": "En Bulgaria, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 3.5%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/BG/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "BG",
+        "value": 4.1
+      },
+      "document": "En Bulgaria, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 4.1%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/CH/2005-12",
       "metadata": {
         "src": "Eurostat",
@@ -17724,6 +17816,19 @@
         "value": 0.0
       },
       "document": "En Suiza, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 0.0%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/CH/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "CH",
+        "value": 0.0
+      },
+      "document": "En Suiza, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 0.0%."
     },
     {
       "id": "PRC_HICP_MANR:ES/CY/1997-01",
@@ -22198,6 +22303,32 @@
       "document": "En Chipre, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 0.0%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/CY/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "CY",
+        "value": 0.0
+      },
+      "document": "En Chipre, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 0.0%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/CY/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "CY",
+        "value": 0.3
+      },
+      "document": "En Chipre, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 0.3%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/CZ/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -26668,6 +26799,19 @@
         "value": 2.4
       },
       "document": "En Chequia, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 2.4%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/CZ/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "CZ",
+        "value": 2.0
+      },
+      "document": "En Chequia, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 2.0%."
     },
     {
       "id": "PRC_HICP_MANR:ES/DE/1997-01",
@@ -31142,6 +31286,32 @@
       "document": "En Alemania, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 2.1%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/DE/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "DE",
+        "value": 2.4
+      },
+      "document": "En Alemania, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 2.4%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/DE/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "DE",
+        "value": 2.3
+      },
+      "document": "En Alemania, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 2.3%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/DK/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -35612,6 +35782,19 @@
         "value": 1.9
       },
       "document": "En Dinamarca, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 1.9%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/DK/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "DK",
+        "value": 2.2
+      },
+      "document": "En Dinamarca, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 2.2%."
     },
     {
       "id": "PRC_HICP_MANR:ES/EA/1997-01",
@@ -40086,6 +40269,32 @@
       "document": "En Eurozona, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 2.0%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/EA/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "EA",
+        "value": 2.2
+      },
+      "document": "En Eurozona, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 2.2%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/EA/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "EA",
+        "value": 2.1
+      },
+      "document": "En Eurozona, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 2.1%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/EA19/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -44558,6 +44767,19 @@
       "document": "En Zona del euro - 19 países, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 2.0%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/EA19/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "EA19",
+        "value": 2.2
+      },
+      "document": "En Zona del euro - 19 países, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 2.2%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/EA20/2000-12",
       "metadata": {
         "src": "Eurostat",
@@ -48417,6 +48639,19 @@
         "value": 2.1
       },
       "document": "En Zona del euro - 20 países, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 2.1%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/EA20/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "EA20",
+        "value": 2.2
+      },
+      "document": "En Zona del euro - 20 países, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 2.2%."
     },
     {
       "id": "PRC_HICP_MANR:ES/EE/1997-01",
@@ -52891,6 +53126,32 @@
       "document": "En Estonia, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 6.2%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/EE/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "EE",
+        "value": 5.3
+      },
+      "document": "En Estonia, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 5.3%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/EE/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "EE",
+        "value": 4.5
+      },
+      "document": "En Estonia, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 4.5%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/EEA/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -57361,6 +57622,19 @@
         "value": 2.4
       },
       "document": "En Área económica europea (EEA18-1995, EEA28-2004, EEA30-2007, EEA31-2013, EEA30-2020), la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 2.4%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/EEA/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "EEA",
+        "value": 2.6
+      },
+      "document": "En Área económica europea (EEA18-1995, EEA28-2004, EEA30-2007, EEA31-2013, EEA30-2020), la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 2.6%."
     },
     {
       "id": "PRC_HICP_MANR:ES/EL/1997-01",
@@ -61835,6 +62109,32 @@
       "document": "En Grecia, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 3.1%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/EL/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "EL",
+        "value": 1.8
+      },
+      "document": "En Grecia, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 1.8%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/EL/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "EL",
+        "value": 1.7
+      },
+      "document": "En Grecia, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 1.7%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/ES/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -66305,6 +66605,32 @@
         "value": 2.7
       },
       "document": "En España, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 2.7%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/ES/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "ES",
+        "value": 3.0
+      },
+      "document": "En España, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 3.0%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/ES/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "ES",
+        "value": 3.2
+      },
+      "document": "En España, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 3.2%."
     },
     {
       "id": "PRC_HICP_MANR:ES/EU/1997-01",
@@ -70779,6 +71105,19 @@
       "document": "En Unión Europea (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020), la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 2.4%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/EU/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "EU",
+        "value": 2.6
+      },
+      "document": "En Unión Europea (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020), la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 2.6%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/EU27_2020/2000-12",
       "metadata": {
         "src": "Eurostat",
@@ -74638,6 +74977,19 @@
         "value": 2.4
       },
       "document": "En Unión Europea - 27 países (desde 2020), la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 2.4%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/EU27_2020/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "EU27_2020",
+        "value": 2.6
+      },
+      "document": "En Unión Europea - 27 países (desde 2020), la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 2.6%."
     },
     {
       "id": "PRC_HICP_MANR:ES/EU28/2000-12",
@@ -82102,6 +82454,32 @@
       "document": "En Finlandia, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 2.2%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/FI/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "FI",
+        "value": 2.2
+      },
+      "document": "En Finlandia, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 2.2%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/FI/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "FI",
+        "value": 1.5
+      },
+      "document": "En Finlandia, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 1.5%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/FR/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -86574,6 +86952,32 @@
       "document": "En Francia, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 0.8%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/FR/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "FR",
+        "value": 1.1
+      },
+      "document": "En Francia, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 1.1%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/FR/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "FR",
+        "value": 0.9
+      },
+      "document": "En Francia, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 0.9%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/HR/1999-01",
       "metadata": {
         "src": "Eurostat",
@@ -90732,6 +91136,32 @@
         "value": 4.6
       },
       "document": "En Croacia, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 4.6%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/HR/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "HR",
+        "value": 4.6
+      },
+      "document": "En Croacia, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 4.6%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/HR/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "HR",
+        "value": 4.0
+      },
+      "document": "En Croacia, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 4.0%."
     },
     {
       "id": "PRC_HICP_MANR:ES/HU/1997-01",
@@ -95206,6 +95636,19 @@
       "document": "En Hungría, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 4.2%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/HU/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "HU",
+        "value": 4.3
+      },
+      "document": "En Hungría, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 4.3%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/IE/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -99676,6 +100119,32 @@
         "value": 1.9
       },
       "document": "En Irlanda, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 1.9%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/IE/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "IE",
+        "value": 2.7
+      },
+      "document": "En Irlanda, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 2.7%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/IE/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "IE",
+        "value": 2.7
+      },
+      "document": "En Irlanda, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 2.7%."
     },
     {
       "id": "PRC_HICP_MANR:ES/IS/1997-01",
@@ -104150,6 +104619,19 @@
       "document": "En Islandia, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 3.7%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/IS/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "IS",
+        "value": 4.3
+      },
+      "document": "En Islandia, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 4.3%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/IT/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -108620,6 +109102,32 @@
         "value": 1.6
       },
       "document": "En Italia, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 1.6%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/IT/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "IT",
+        "value": 1.8
+      },
+      "document": "En Italia, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 1.8%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/IT/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "IT",
+        "value": 1.3
+      },
+      "document": "En Italia, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 1.3%."
     },
     {
       "id": "PRC_HICP_MANR:ES/LT/1997-01",
@@ -113094,6 +113602,32 @@
       "document": "En Lituania, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 3.6%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/LT/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "LT",
+        "value": 3.7
+      },
+      "document": "En Lituania, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 3.7%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/LT/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "LT",
+        "value": 3.7
+      },
+      "document": "En Lituania, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 3.7%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/LU/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -117564,6 +118098,32 @@
         "value": 2.8
       },
       "document": "En Luxemburgo, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 2.8%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/LU/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "LU",
+        "value": 3.1
+      },
+      "document": "En Luxemburgo, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 3.1%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/LU/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "LU",
+        "value": 3.0
+      },
+      "document": "En Luxemburgo, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 3.0%."
     },
     {
       "id": "PRC_HICP_MANR:ES/LV/1997-01",
@@ -122038,6 +122598,32 @@
       "document": "En Letonia, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 4.2%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/LV/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "LV",
+        "value": 4.2
+      },
+      "document": "En Letonia, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 4.2%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/LV/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "LV",
+        "value": 4.2
+      },
+      "document": "En Letonia, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 4.2%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/ME/2015-12",
       "metadata": {
         "src": "Eurostat",
@@ -123557,6 +124143,19 @@
         "value": 4.7
       },
       "document": "En Montenegro, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 4.7%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/ME/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "ME",
+        "value": 4.7
+      },
+      "document": "En Montenegro, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 4.7%."
     },
     {
       "id": "PRC_HICP_MANR:ES/MK/2005-12",
@@ -126638,6 +127237,19 @@
         "value": 4.4
       },
       "document": "En Macedonia del Norte, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 4.4%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/MK/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "MK",
+        "value": 3.3
+      },
+      "document": "En Macedonia del Norte, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 3.3%."
     },
     {
       "id": "PRC_HICP_MANR:ES/MT/1997-01",
@@ -131112,6 +131724,32 @@
       "document": "En Malta, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 2.7%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/MT/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "MT",
+        "value": 2.4
+      },
+      "document": "En Malta, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 2.4%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/MT/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "MT",
+        "value": 2.4
+      },
+      "document": "En Malta, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 2.4%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/NL/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -135582,6 +136220,32 @@
         "value": 2.4
       },
       "document": "En Países Bajos, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 2.4%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/NL/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "NL",
+        "value": 3.0
+      },
+      "document": "En Países Bajos, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 3.0%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/NL/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "NL",
+        "value": 3.0
+      },
+      "document": "En Países Bajos, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 3.0%."
     },
     {
       "id": "PRC_HICP_MANR:ES/NO/1997-01",
@@ -140056,6 +140720,19 @@
       "document": "En Noruega, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 3.5%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/NO/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "NO",
+        "value": 3.6
+      },
+      "document": "En Noruega, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 3.6%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/PL/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -144526,6 +145203,19 @@
         "value": 2.7
       },
       "document": "En Polonia, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 2.7%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/PL/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "PL",
+        "value": 2.9
+      },
+      "document": "En Polonia, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 2.9%."
     },
     {
       "id": "PRC_HICP_MANR:ES/PT/1997-01",
@@ -149000,6 +149690,32 @@
       "document": "En Portugal, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 2.5%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/PT/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "PT",
+        "value": 1.9
+      },
+      "document": "En Portugal, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 1.9%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/PT/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "PT",
+        "value": 2.0
+      },
+      "document": "En Portugal, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 2.0%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/RO/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -153472,6 +154188,19 @@
       "document": "En Rumanía, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 8.5%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/RO/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "RO",
+        "value": 8.6
+      },
+      "document": "En Rumanía, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 8.6%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/RS/2006-12",
       "metadata": {
         "src": "Eurostat",
@@ -156395,6 +157124,19 @@
         "value": 4.9
       },
       "document": "En Serbia, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 4.9%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/RS/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "RS",
+        "value": 3.1
+      },
+      "document": "En Serbia, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 3.1%."
     },
     {
       "id": "PRC_HICP_MANR:ES/SE/1997-01",
@@ -160869,6 +161611,19 @@
       "document": "En Suecia, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 3.4%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/SE/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "SE",
+        "value": 3.2
+      },
+      "document": "En Suecia, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 3.2%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/SI/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -165339,6 +166094,32 @@
         "value": 3.0
       },
       "document": "En Eslovenia, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 3.0%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/SI/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "SI",
+        "value": 2.7
+      },
+      "document": "En Eslovenia, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 2.7%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/SI/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "SI",
+        "value": 3.1
+      },
+      "document": "En Eslovenia, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 3.1%."
     },
     {
       "id": "PRC_HICP_MANR:ES/SK/1997-01",
@@ -169813,6 +170594,32 @@
       "document": "En Eslovaquia, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 4.4%."
     },
     {
+      "id": "PRC_HICP_MANR:ES/SK/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "SK",
+        "value": 4.6
+      },
+      "document": "En Eslovaquia, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 4.6%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/SK/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "SK",
+        "value": 3.8
+      },
+      "document": "En Eslovaquia, la tasa de inflación interanual (IAPC), para octubre de 2025, fue del 3.8%."
+    },
+    {
       "id": "PRC_HICP_MANR:ES/TR/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -174283,6 +175090,19 @@
         "value": 33.0
       },
       "document": "En Turquía, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 33.0%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/TR/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "TR",
+        "value": 33.3
+      },
+      "document": "En Turquía, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 33.3%."
     },
     {
       "id": "PRC_HICP_MANR:ES/UK/1997-01",
@@ -182824,6 +183644,19 @@
         "value": 4.5
       },
       "document": "En Kosovo, la tasa de inflación interanual (IAPC), para agosto de 2025, fue del 4.5%."
+    },
+    {
+      "id": "PRC_HICP_MANR:ES/XK/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "ES",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "XK",
+        "value": 4.7
+      },
+      "document": "En Kosovo, la tasa de inflación interanual (IAPC), para septiembre de 2025, fue del 4.7%."
     }
   ]
 }

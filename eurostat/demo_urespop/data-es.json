@@ -2,7 +2,21 @@
   "version": "1.0",
   "metadata": {
     "coll": {
-      "name": "demo_urespop"
+      "name": "eurostat",
+      "configuration": {
+        "embedding_function": "sentence_transformer",
+        "spann": {
+          "search_nprobe": 64,
+          "write_nprobe": 32,
+          "space": "cosine",
+          "ef_construction": 200,
+          "ef_search": 200,
+          "max_neighbors": 64,
+          "reassign_neighbor_count": 64,
+          "split_threshold": 50,
+          "merge_threshold": 25
+        }
+      }
     }
   },
   "data": [

@@ -2,7 +2,21 @@
   "version": "1.0",
   "metadata": {
     "coll": {
-      "name": "prc_hicp_manr"
+      "name": "eurostat",
+      "configuration": {
+        "embedding_function": "sentence_transformer",
+        "spann": {
+          "search_nprobe": 64,
+          "write_nprobe": 32,
+          "space": "cosine",
+          "ef_construction": 200,
+          "ef_search": 200,
+          "max_neighbors": 64,
+          "reassign_neighbor_count": 64,
+          "split_threshold": 50,
+          "merge_threshold": 25
+        }
+      }
     }
   },
   "data": [
@@ -1370,6 +1384,19 @@
         "value": 2.3
       },
       "document": "A Albania, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 2.3%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/AL/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "AL",
+        "value": 2.2
+      },
+      "document": "A Albania, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 2.2%."
     },
     {
       "id": "PRC_HICP_MANR:IT/AT/1997-01",
@@ -5844,6 +5871,32 @@
       "document": "A Austria, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 4.1%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/AT/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "AT",
+        "value": 3.9
+      },
+      "document": "A Austria, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 3.9%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/AT/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "AT",
+        "value": 4.0
+      },
+      "document": "A Austria, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 4.0%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/BE/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -10316,6 +10369,32 @@
       "document": "A Belgio, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 2.6%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/BE/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "BE",
+        "value": 2.7
+      },
+      "document": "A Belgio, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 2.7%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/BE/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "BE",
+        "value": 2.5
+      },
+      "document": "A Belgio, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 2.5%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/BG/1997-12",
       "metadata": {
         "src": "Eurostat",
@@ -14645,6 +14724,19 @@
       "document": "A Bulgaria, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 3.5%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/BG/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "BG",
+        "value": 4.1
+      },
+      "document": "A Bulgaria, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 4.1%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/CH/2005-12",
       "metadata": {
         "src": "Eurostat",
@@ -17724,6 +17816,19 @@
         "value": 0.0
       },
       "document": "A Svizzera, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 0.0%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/CH/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "CH",
+        "value": 0.0
+      },
+      "document": "A Svizzera, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 0.0%."
     },
     {
       "id": "PRC_HICP_MANR:IT/CY/1997-01",
@@ -22198,6 +22303,32 @@
       "document": "A Cipro, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 0.0%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/CY/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "CY",
+        "value": 0.0
+      },
+      "document": "A Cipro, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 0.0%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/CY/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "CY",
+        "value": 0.3
+      },
+      "document": "A Cipro, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 0.3%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/CZ/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -26668,6 +26799,19 @@
         "value": 2.4
       },
       "document": "A Cechia, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 2.4%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/CZ/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "CZ",
+        "value": 2.0
+      },
+      "document": "A Cechia, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 2.0%."
     },
     {
       "id": "PRC_HICP_MANR:IT/DE/1997-01",
@@ -31142,6 +31286,32 @@
       "document": "A Germania, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 2.1%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/DE/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "DE",
+        "value": 2.4
+      },
+      "document": "A Germania, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 2.4%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/DE/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "DE",
+        "value": 2.3
+      },
+      "document": "A Germania, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 2.3%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/DK/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -35612,6 +35782,19 @@
         "value": 1.9
       },
       "document": "A Danimarca, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 1.9%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/DK/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "DK",
+        "value": 2.2
+      },
+      "document": "A Danimarca, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 2.2%."
     },
     {
       "id": "PRC_HICP_MANR:IT/EA/1997-01",
@@ -40086,6 +40269,32 @@
       "document": "A Eurozona, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 2.0%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/EA/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "EA",
+        "value": 2.2
+      },
+      "document": "A Eurozona, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 2.2%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/EA/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "EA",
+        "value": 2.1
+      },
+      "document": "A Eurozona, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 2.1%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/EA19/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -44558,6 +44767,19 @@
       "document": "A Zona Euro - 19 paesi, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 2.0%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/EA19/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "EA19",
+        "value": 2.2
+      },
+      "document": "A Zona Euro - 19 paesi, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 2.2%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/EA20/2000-12",
       "metadata": {
         "src": "Eurostat",
@@ -48417,6 +48639,19 @@
         "value": 2.1
       },
       "document": "A Zona Euro - 20 paesi, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 2.1%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/EA20/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "EA20",
+        "value": 2.2
+      },
+      "document": "A Zona Euro - 20 paesi, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 2.2%."
     },
     {
       "id": "PRC_HICP_MANR:IT/EE/1997-01",
@@ -52891,6 +53126,32 @@
       "document": "A Estonia, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 6.2%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/EE/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "EE",
+        "value": 5.3
+      },
+      "document": "A Estonia, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 5.3%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/EE/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "EE",
+        "value": 4.5
+      },
+      "document": "A Estonia, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 4.5%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/EEA/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -57361,6 +57622,19 @@
         "value": 2.4
       },
       "document": "A Zona Euro (EEA18-1995, EEA28-2004, EEA30-2007, EEA31-2013, EEA30-2020), il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 2.4%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/EEA/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "EEA",
+        "value": 2.6
+      },
+      "document": "A Zona Euro (EEA18-1995, EEA28-2004, EEA30-2007, EEA31-2013, EEA30-2020), il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 2.6%."
     },
     {
       "id": "PRC_HICP_MANR:IT/EL/1997-01",
@@ -61835,6 +62109,32 @@
       "document": "A Grecia, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 3.1%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/EL/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "EL",
+        "value": 1.8
+      },
+      "document": "A Grecia, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 1.8%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/EL/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "EL",
+        "value": 1.7
+      },
+      "document": "A Grecia, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 1.7%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/ES/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -66305,6 +66605,32 @@
         "value": 2.7
       },
       "document": "A Spagna, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 2.7%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/ES/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "ES",
+        "value": 3.0
+      },
+      "document": "A Spagna, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 3.0%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/ES/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "ES",
+        "value": 3.2
+      },
+      "document": "A Spagna, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 3.2%."
     },
     {
       "id": "PRC_HICP_MANR:IT/EU/1997-01",
@@ -70779,6 +71105,19 @@
       "document": "A Unione Europea (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020), il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 2.4%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/EU/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "EU",
+        "value": 2.6
+      },
+      "document": "A Unione Europea (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020), il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 2.6%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/EU27_2020/2000-12",
       "metadata": {
         "src": "Eurostat",
@@ -74638,6 +74977,19 @@
         "value": 2.4
       },
       "document": "A Unione Europea - 27 paesi (dal 2020), il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 2.4%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/EU27_2020/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "EU27_2020",
+        "value": 2.6
+      },
+      "document": "A Unione Europea - 27 paesi (dal 2020), il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 2.6%."
     },
     {
       "id": "PRC_HICP_MANR:IT/EU28/2000-12",
@@ -82102,6 +82454,32 @@
       "document": "A Finlandia, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 2.2%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/FI/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "FI",
+        "value": 2.2
+      },
+      "document": "A Finlandia, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 2.2%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/FI/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "FI",
+        "value": 1.5
+      },
+      "document": "A Finlandia, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 1.5%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/FR/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -86574,6 +86952,32 @@
       "document": "A Francia, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 0.8%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/FR/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "FR",
+        "value": 1.1
+      },
+      "document": "A Francia, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 1.1%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/FR/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "FR",
+        "value": 0.9
+      },
+      "document": "A Francia, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 0.9%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/HR/1999-01",
       "metadata": {
         "src": "Eurostat",
@@ -90732,6 +91136,32 @@
         "value": 4.6
       },
       "document": "A Croazia, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 4.6%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/HR/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "HR",
+        "value": 4.6
+      },
+      "document": "A Croazia, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 4.6%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/HR/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "HR",
+        "value": 4.0
+      },
+      "document": "A Croazia, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 4.0%."
     },
     {
       "id": "PRC_HICP_MANR:IT/HU/1997-01",
@@ -95206,6 +95636,19 @@
       "document": "A Ungheria, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 4.2%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/HU/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "HU",
+        "value": 4.3
+      },
+      "document": "A Ungheria, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 4.3%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/IE/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -99676,6 +100119,32 @@
         "value": 1.9
       },
       "document": "A Irlanda, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 1.9%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/IE/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "IE",
+        "value": 2.7
+      },
+      "document": "A Irlanda, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 2.7%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/IE/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "IE",
+        "value": 2.7
+      },
+      "document": "A Irlanda, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 2.7%."
     },
     {
       "id": "PRC_HICP_MANR:IT/IS/1997-01",
@@ -104150,6 +104619,19 @@
       "document": "A Islanda, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 3.7%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/IS/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "IS",
+        "value": 4.3
+      },
+      "document": "A Islanda, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 4.3%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/IT/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -108620,6 +109102,32 @@
         "value": 1.6
       },
       "document": "A Italia, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 1.6%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/IT/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "IT",
+        "value": 1.8
+      },
+      "document": "A Italia, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 1.8%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/IT/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "IT",
+        "value": 1.3
+      },
+      "document": "A Italia, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 1.3%."
     },
     {
       "id": "PRC_HICP_MANR:IT/LT/1997-01",
@@ -113094,6 +113602,32 @@
       "document": "A Lituania, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 3.6%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/LT/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "LT",
+        "value": 3.7
+      },
+      "document": "A Lituania, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 3.7%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/LT/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "LT",
+        "value": 3.7
+      },
+      "document": "A Lituania, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 3.7%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/LU/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -117564,6 +118098,32 @@
         "value": 2.8
       },
       "document": "A Lussemburgo, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 2.8%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/LU/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "LU",
+        "value": 3.1
+      },
+      "document": "A Lussemburgo, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 3.1%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/LU/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "LU",
+        "value": 3.0
+      },
+      "document": "A Lussemburgo, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 3.0%."
     },
     {
       "id": "PRC_HICP_MANR:IT/LV/1997-01",
@@ -122038,6 +122598,32 @@
       "document": "A Lettonia, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 4.2%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/LV/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "LV",
+        "value": 4.2
+      },
+      "document": "A Lettonia, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 4.2%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/LV/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "LV",
+        "value": 4.2
+      },
+      "document": "A Lettonia, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 4.2%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/ME/2015-12",
       "metadata": {
         "src": "Eurostat",
@@ -123557,6 +124143,19 @@
         "value": 4.7
       },
       "document": "A Montenegro, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 4.7%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/ME/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "ME",
+        "value": 4.7
+      },
+      "document": "A Montenegro, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 4.7%."
     },
     {
       "id": "PRC_HICP_MANR:IT/MK/2005-12",
@@ -126638,6 +127237,19 @@
         "value": 4.4
       },
       "document": "A Macedonia del Nord, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 4.4%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/MK/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "MK",
+        "value": 3.3
+      },
+      "document": "A Macedonia del Nord, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 3.3%."
     },
     {
       "id": "PRC_HICP_MANR:IT/MT/1997-01",
@@ -131112,6 +131724,32 @@
       "document": "A Malta, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 2.7%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/MT/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "MT",
+        "value": 2.4
+      },
+      "document": "A Malta, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 2.4%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/MT/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "MT",
+        "value": 2.4
+      },
+      "document": "A Malta, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 2.4%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/NL/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -135582,6 +136220,32 @@
         "value": 2.4
       },
       "document": "A Paesi Bassi, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 2.4%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/NL/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "NL",
+        "value": 3.0
+      },
+      "document": "A Paesi Bassi, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 3.0%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/NL/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "NL",
+        "value": 3.0
+      },
+      "document": "A Paesi Bassi, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 3.0%."
     },
     {
       "id": "PRC_HICP_MANR:IT/NO/1997-01",
@@ -140056,6 +140720,19 @@
       "document": "A Norvegia, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 3.5%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/NO/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "NO",
+        "value": 3.6
+      },
+      "document": "A Norvegia, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 3.6%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/PL/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -144526,6 +145203,19 @@
         "value": 2.7
       },
       "document": "A Polonia, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 2.7%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/PL/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "PL",
+        "value": 2.9
+      },
+      "document": "A Polonia, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 2.9%."
     },
     {
       "id": "PRC_HICP_MANR:IT/PT/1997-01",
@@ -149000,6 +149690,32 @@
       "document": "A Portogallo, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 2.5%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/PT/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "PT",
+        "value": 1.9
+      },
+      "document": "A Portogallo, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 1.9%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/PT/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "PT",
+        "value": 2.0
+      },
+      "document": "A Portogallo, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 2.0%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/RO/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -153472,6 +154188,19 @@
       "document": "A Romania, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 8.5%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/RO/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "RO",
+        "value": 8.6
+      },
+      "document": "A Romania, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 8.6%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/RS/2006-12",
       "metadata": {
         "src": "Eurostat",
@@ -156395,6 +157124,19 @@
         "value": 4.9
       },
       "document": "A Serbia, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 4.9%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/RS/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "RS",
+        "value": 3.1
+      },
+      "document": "A Serbia, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 3.1%."
     },
     {
       "id": "PRC_HICP_MANR:IT/SE/1997-01",
@@ -160869,6 +161611,19 @@
       "document": "A Svezia, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 3.4%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/SE/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "SE",
+        "value": 3.2
+      },
+      "document": "A Svezia, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 3.2%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/SI/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -165339,6 +166094,32 @@
         "value": 3.0
       },
       "document": "A Slovenia, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 3.0%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/SI/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "SI",
+        "value": 2.7
+      },
+      "document": "A Slovenia, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 2.7%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/SI/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "SI",
+        "value": 3.1
+      },
+      "document": "A Slovenia, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 3.1%."
     },
     {
       "id": "PRC_HICP_MANR:IT/SK/1997-01",
@@ -169813,6 +170594,32 @@
       "document": "A Slovacchia, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 4.4%."
     },
     {
+      "id": "PRC_HICP_MANR:IT/SK/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "SK",
+        "value": 4.6
+      },
+      "document": "A Slovacchia, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 4.6%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/SK/2025-10",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 10,
+        "geo_code": "SK",
+        "value": 3.8
+      },
+      "document": "A Slovacchia, il tasso di inflazione su base annua (IPCA), per ottobre di 2025, era del 3.8%."
+    },
+    {
       "id": "PRC_HICP_MANR:IT/TR/1997-01",
       "metadata": {
         "src": "Eurostat",
@@ -174283,6 +175090,19 @@
         "value": 33.0
       },
       "document": "A Turchia, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 33.0%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/TR/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "TR",
+        "value": 33.3
+      },
+      "document": "A Turchia, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 33.3%."
     },
     {
       "id": "PRC_HICP_MANR:IT/UK/1997-01",
@@ -182824,6 +183644,19 @@
         "value": 4.5
       },
       "document": "A Kosovo, il tasso di inflazione su base annua (IPCA), per agosto di 2025, era del 4.5%."
+    },
+    {
+      "id": "PRC_HICP_MANR:IT/XK/2025-09",
+      "metadata": {
+        "src": "Eurostat",
+        "stat": "PRC_HICP_MANR",
+        "lang": "IT",
+        "year": 2025,
+        "month": 9,
+        "geo_code": "XK",
+        "value": 4.7
+      },
+      "document": "A Kosovo, il tasso di inflazione su base annua (IPCA), per settembre di 2025, era del 4.7%."
     }
   ]
 }
