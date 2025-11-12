@@ -2,7 +2,30 @@
   "version": "1.0",
   "metadata": {
     "coll": {
-      "name": "prc_hicp_manr"
+      "name": "prc_hicp_manr",
+      "configuration": {
+        "spann": {
+          "search_nprobe": 64,
+          "write_nprobe": 32,
+          "space": "cosine",
+          "ef_construction": 200,
+          "ef_search": 200,
+          "max_neighbors": 64,
+          "reassign_neighbor_count": 64,
+          "split_threshold": 50,
+          "merge_threshold": 25
+        },
+        "embedding_function": {
+          "type": "known",
+          "name": "sentence_transformer",
+          "config": {
+            "device": "cpu",
+            "kwargs": {},
+            "model_name": "paraphrase-multilingual-mpnet-base-v2",
+            "normalize_embeddings": false
+          }
+        }
+      }
     }
   },
   "data": [
